@@ -1,0 +1,9 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey"></string>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey"></string>
+    <string name="app_name">UndergroundCellarApp</string>
+    <!--Debug key-->
+    <string name="facebook_app_id">SSj2cj7HikQndwfwSdSx/XHAL2U=</string>
+    <!--Release key-->
+    <!--<string name="facebook_app_id">rn0m6TJIR79gIT+Hb/ZVR1V3+c=</string>-->
+</resources>
